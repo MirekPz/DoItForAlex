@@ -1,0 +1,8 @@
+Istnieją różne rodzaje kodów odpowiedzi. Są nimi:
+
+    kody informacyjne – zaczynające się od cyfry 1;
+    kody powodzenia – od cyfry 2;
+    kody przekierowania – od cyfry 3;
+    kody błędy aplikacji klienta – od cyfry 4;
+    kody błędu serwera – od cyfry 5.
+
